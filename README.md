@@ -1,5 +1,4 @@
 # Data-Science-Projects-in-English
-These projects were completed as part of the "Data Science Specialist" course (Yandex Practicum), funded by a grant from the [Shakhmardan Yessenov Science and Education Foundation](https://yessenovfoundation.org/en/).
 
 | Project | Description | Libraries |
 | ------------- | ------------- | ------------- |
